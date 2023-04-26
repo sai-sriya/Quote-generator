@@ -1,0 +1,26 @@
+#quote {
+    font-weight: bolder;
+    font-size: 38px;
+    color:#fbefcc;
+}
+#main_container{
+    height:500px;
+    width:510px;
+    background-color: #e0876a;
+    margin-left: 350px;
+}
+#main_container h1,p{
+    text-align: center;
+    padding: 8px;
+    color:black;
+}
+#button{
+    position:fixed;
+    bottom:90px;
+    height:53px;
+    width:200px;
+    left:500px;
+    font-weight: 600;
+    background-color: black;
+    color:white;
+}
